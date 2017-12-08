@@ -1,7 +1,7 @@
 answer.js
 =========
 
-Better in-page search, created by [Ryhan Hassan](http://github.com/ryhan).
+Better in-page search, created by [wd1](http://github.com/wd1).
 
 ## Usage
 
